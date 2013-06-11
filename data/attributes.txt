@@ -1,0 +1,14 @@
+# FaceTracer Dataset v1.0 - attributes.txt - http://www.cs.columbia.edu/CAVE/databases/facetracer/
+# Format: attribute	label1	label2	...
+
+gender	male	female
+race	asian	white	black
+age	baby	child	youth	middle_aged	senior
+
+hair_color	blond	not_blond
+eye_wear	none	eyeglasses	sunglasses
+mustache	true	false
+expression	smiling	not_smiling
+blurry	true	false
+lighting	harsh	flash
+environment	outdoor	indoor
